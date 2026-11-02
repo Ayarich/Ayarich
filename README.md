@@ -1,96 +1,108 @@
-<!-- Wild Welcome Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=E0115F&center=true&width=435&lines=Welcome+to+Ayarich's+Wild+GitHub!;SysAdmin.+Cloud+Tamer.+Automation+Beast.">
+<div align="center">
+
+# Ebenezer Ayaaba
+
+### Systems & Data Engineer · Software Developer · Cloud & DevOps Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3300&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+reliable+systems+and+useful+software;Cloud+Infrastructure+%7C+Automation+%7C+APIs;Turning+complex+problems+into+practical+solutions" alt="Animated introduction" />
+
+<p>
+  <a href="https://ebenezerayaaba.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ebenezer-ayaaba-91a02a1ab"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Ayarich?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" alt="Coding Cat GIF"/>
-</p>
-
-# 👋 Hey, I’m Ayarich!
-
-> _"Code is my canvas, clouds are my playground, and automation is my secret sauce."_
+</div>
 
 ---
 
-## 🧑‍🚀 About Me
+## About Me
 
-- 🖥️ Systems Administrator | Cloud Computing Pro | Automation Enthusiast
-- ☁️ I wrangle clouds with **Apache CloudStack**, **Kubernetes**, **Docker**, and **Galera MariaDB** clusters
-- 🤖 Automation wizard: **Ansible** is my magic wand
-- 💡 Dev, hacker, and explorer of all things tech
-- ⚡️ Fluent in C#, Java, JavaScript, Python, HTML, and more
-- 🌱 Always learning new frameworks, tools, and caffeine levels
-- 🤝 Let’s build—or automate—something epic together!
+I'm **Ebenezer Ayaaba**, a **Systems & Data Engineer** with a background in **Materials Engineering** and a strong interest in building reliable software, cloud infrastructure, and automation solutions.
+
+My work brings together **backend development, data systems, DevOps, and modern web technologies**. I enjoy taking ideas from concept to production, improving existing systems, and using technology to solve practical problems.
+
+- **Engineering:** Systems administration, infrastructure, deployment, and automation
+- **Development:** Python, Django, JavaScript/TypeScript, React, and Next.js
+- **Cloud & DevOps:** Docker, Kubernetes, Ansible, Linux, and cloud platforms
+- **Data:** PostgreSQL, MariaDB, analytics, and data-driven applications
+- **Research:** Sustainable materials, experimental analysis, and intelligent engineering systems
+
+> **What drives me:** Build thoughtfully. Automate responsibly. Keep learning.
+
+## Tech Stack
+
+**Languages & Frontend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Backend & Data**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Apache CloudStack](https://img.shields.io/badge/CloudStack-2C75B8?style=flat-square&logo=apachecloudstack&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+## Selected Projects
+
+| Project | Focus |
+| :--- | :--- |
+| [**Kubernetes**](https://github.com/Ayarich/kubernetes) | Container orchestration and cloud-native infrastructure |
+| [**Financeapp**](https://github.com/Ayarich/Financeapp) | Finance-oriented application built with C# |
+| [**Backend**](https://github.com/Ayarich/backend) | Python backend development and APIs |
+| [**Spring Boot**](https://github.com/Ayarich/springboot) | Java backend development |
+| [**COGNOS**](https://github.com/Ayarich/COGNOS) | Jupyter notebooks and data exploration |
+| [**My Portfolio**](https://github.com/Ayarich/Ebenezer-Ayaaba) | Personal website and professional showcase |
+
+**More work:** [View all repositories](https://github.com/Ayarich?tab=repositories), including [C-CRUD-Project](https://github.com/Ayarich/C-CRUD-Project), [mybot](https://github.com/Ayarich/mybot), and [Elibrary_knustob](https://github.com/Ayarich/Elibrary_knustob).
+
+## Research & Learning
+
+My engineering background informs how I approach software: with an emphasis on experimentation, reliability, and evidence-based decisions.
+
+**Publication:** [*Evaluating the Absorption Properties of Plantain Fiber-Based Absorbent Cores for Sustainable Sanitary Pads*](https://link.springer.com/article/10.1007/s12221-025-01244-0) — *Fibers and Polymers*.
+
+**Current interests:** Cloud engineering, DevOps, backend architecture, data engineering, and intelligent sensing systems.
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayarich&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Ebenezer's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayarich&layout=compact&theme=github_dark&hide_border=true" alt="Languages in public repositories" height="165" />
+</div>
+
+> GitHub cards depend on external services and may occasionally be unavailable. Language statistics represent repository code, not overall proficiency.
+
+## Let's Connect
+
+I'm open to conversations about **software engineering, cloud infrastructure, automation, research, and collaboration**.
+
+- **Portfolio:** [ebenezerayaaba.vercel.app](https://ebenezerayaaba.vercel.app/)
+- **LinkedIn:** [Ebenezer Ayaaba](https://www.linkedin.com/in/ebenezer-ayaaba-91a02a1ab)
+- **GitHub:** [@Ayarich](https://github.com/Ayarich)
+
+<div align="center">
 
 ---
 
-## 🚀 Wildest Projects
+*Engineering solutions that are practical, scalable, and built to last.*
 
-> _Brace yourself. May contain traces of sysadmin wizardry, cloud conjuring, and untamed code._
-
-- ☁️ [**kubernetes**](https://github.com/Ayarich/kubernetes) — My cloud-native jungle
-- 💸 [**Financeapp**](https://github.com/Ayarich/Financeapp) — Where C# meets finance
-- 🦾 [**C-CRUD-Project**](https://github.com/Ayarich/C-CRUD-Project) — C# tamed (or did it tame me?)
-- 🐍 [**backend**](https://github.com/Ayarich/backend) — Python-powered automation engine
-- 🌱 [**springboot**](https://github.com/Ayarich/springboot) — Java in full bloom
-- 🤖 [**mybot**](https://github.com/Ayarich/mybot) — 01101100 01101111 01101100 (That's "lol" in bot-speak!)
-- ⚡ [**COGNOS**](https://github.com/Ayarich/COGNOS) — Jupyter Notebook sorcery
-- 🌐 [**Ebenezer-Ayaaba**](https://github.com/Ayarich/Ebenezer-Ayaaba) — JavaScript and web wizardry ([Live Site](https://ebenezer-ayaaba.vercel.app))
-- 📚 [**Elibrary_knustob**](https://github.com/Ayarich/Elibrary_knustob) — HTML for bookworms
-- 👨‍💻 [**csharp**](https://github.com/Ayarich/csharp) — My C# adventure log
-
-> _See the full jungle: [All Ayarich’s repos →](https://github.com/Ayarich?tab=repositories) (12 and counting!)_
-
----
-
-## 🏆 GitHub Stats & Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayarich&show_icons=true&theme=tokyonight&title_color=ff42a1&icon_color=ffc857" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayarich&layout=compact&theme=tokyonight&title_color=ff42a1" height="170"/>
-</p>
-
----
-
-## 🛠️ Tech & Tools
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![CloudStack](https://img.shields.io/badge/Apache%20CloudStack-1D6D9B?style=for-the-badge&logo=apache&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-> _Spring Boot, .NET, Backend APIs, Bots, Web Dev, Data Science—and whatever’s next!_
-
----
-
-## 🔥 Fun Facts
-
-- 🦄 I believe bugs are just misunderstood features
-- 🤓 Have automated production rollouts with Ansible and Docker—more time for coffee!
-- ☁️ I once migrated a cluster in my sleep (almost)
-- 🎲 My commit messages sometimes contain ancient runes
-- 🕹️ I debug for fun (and for glory)
-- 🎉 I celebrate every merged PR with a happy dance
-
----
-
-## 🤝 Connect With Me
-
-- 💼 [LinkedIn: Ebenezer Ayaaba](https://www.linkedin.com/in/ebenezer-ayaaba-91a02a1ab)
-- 🌐 [Personal Portfolio](https://ebenezerayaaba.vercel.app/)
-- 💬 DM me on GitHub: [@Ayarich](https://github.com/Ayarich)
-- 🔥 [See all my wild projects](https://github.com/Ayarich?tab=repositories)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=00FFCC&center=true&width=435&lines=Thanks+for+visiting!+Star+something+wild!">
-</p>
+</div>
