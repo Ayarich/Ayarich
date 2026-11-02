@@ -37,28 +37,44 @@ My work brings together **backend development, data systems, DevOps, and modern 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Backend & Data**
+**Backend, APIs & Data**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-007ACC?style=flat-square&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Infrastructure & Tools**
+**Cloud, Infrastructure & Developer Tools**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Apache CloudStack](https://img.shields.io/badge/CloudStack-2C75B8?style=flat-square&logo=apachecloudstack&logoColor=white)
+![Apache CloudStack](https://img.shields.io/badge/Apache_CloudStack-2C75B8?style=flat-square&logo=apache&logoColor=white)
+![Open edX](https://img.shields.io/badge/Open_edX-1F619A?style=flat-square&logo=edx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ## Selected Projects
@@ -72,7 +88,18 @@ My work brings together **backend development, data systems, DevOps, and modern 
 | [**COGNOS**](https://github.com/Ayarich/COGNOS) | Jupyter notebooks and data exploration |
 | [**My Portfolio**](https://github.com/Ayarich/Ebenezer-Ayaaba) | Personal website and professional showcase |
 
-**More work:** [View all repositories](https://github.com/Ayarich?tab=repositories), including [C-CRUD-Project](https://github.com/Ayarich/C-CRUD-Project), [mybot](https://github.com/Ayarich/mybot), and [Elibrary_knustob](https://github.com/Ayarich/Elibrary_knustob).
+**More repositories:** [View all repositories](https://github.com/Ayarich?tab=repositories), including [C-CRUD-Project](https://github.com/Ayarich/C-CRUD-Project), [mybot](https://github.com/Ayarich/mybot), and [Elibrary_knustob](https://github.com/Ayarich/Elibrary_knustob).
+
+### Other Engineering Work
+
+- **FlowPard:** Multi-tenant SaaS platform with campaign automation, CRM, AI-assisted tools, background processing, and external integrations.
+- **CodeDevPay Academy:** Learning and examination platform with course delivery, assessments, tutor workflows, and analytics.
+- **Open edX deployment:** Tutor-based deployment and operational troubleshooting on Ubuntu with Docker and Caddy.
+- **KNUST systems:** Internal service portals, announcements, ticketing, and administrative workflows.
+- **Web platforms:** MOSA Foundation, Joy Baptist Church, hotel booking, finance, commerce, and portfolio websites.
+- **Device integration research:** Local network and biometric-terminal connectivity diagnostics.
+
+*Some projects are private, client work, or works in progress; public source code is linked above where available.*
 
 ## Research & Learning
 
@@ -80,16 +107,28 @@ My engineering background informs how I approach software: with an emphasis on e
 
 **Publication:** [*Evaluating the Absorption Properties of Plantain Fiber-Based Absorbent Cores for Sustainable Sanitary Pads*](https://link.springer.com/article/10.1007/s12221-025-01244-0) — *Fibers and Polymers*.
 
+**Professional learning:** IBM Full Stack Software Developer · IBM Data Analyst · Red Hat Fundamentals of Ansible.
+
 **Current interests:** Cloud engineering, DevOps, backend architecture, data engineering, and intelligent sensing systems.
 
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayarich&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Ebenezer's GitHub statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayarich&layout=compact&theme=github_dark&hide_border=true" alt="Languages in public repositories" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ayarich&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Ebenezer's GitHub statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayarich&layout=compact&theme=github_dark&hide_border=true" alt="Languages in public repositories" height="165" />
+
+### Contribution Calendar
+
+<img src="https://ghchart.rshah.org/216e39/Ayarich" alt="Ayarich GitHub contribution calendar (automatically updated)" width="100%" />
+
+### Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayarich&theme=github-compact&hide_border=true" alt="Ayarich GitHub activity graph" width="100%" />
+
 </div>
 
-> GitHub cards depend on external services and may occasionally be unavailable. Language statistics represent repository code, not overall proficiency.
+> The contribution calendar and activity graph are pulled from GitHub through external image services and refresh according to their caching schedules. These images are not GitHub's native interactive calendar. The GitHub stats cards can occasionally be unavailable; language statistics reflect repository code, not overall proficiency.
 
 ## Let's Connect
 
